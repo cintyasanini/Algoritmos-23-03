@@ -1,0 +1,10 @@
+Inicio
+
+1 - Exibir "Nome:", "Idade:", "Estado civil:","Número de filhos:", "Tempo de empresa:" e "Salário:";
+2 - Leitura de todos os dados;
+3 - Se tiver mais de 60 anos, exibir "Apresentar plano de aposentadoria para o funcionário", senão, exibir "Sem plano de aposentadoria para o funcionário";
+4 - Se o funcionário não tiver filhos, exibir "Funcionário sem direito ao Auxilio Familia", senão, exibir "Funcionário com direito ao Auxilio Familia";
+5 - Se o funcionário tiver mais de 5 anos de empresa, exibir "Funcionário com direito ao Abono Salarial", senão, exibir "Funcionário sem direito ao Abono Salarial";
+6 - Se o funcionário ganhar um salário maior do que 4.300 reais, exibir "Funcionário com direito ao Seguro de Vida e Seguro Saúde", senão, exibir "Funcionário sem direito ao Seguro de Vida e Seguro Saúde";
+
+Fim
